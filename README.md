@@ -12,7 +12,7 @@ Example app for React Component styling
 ## Install
 
 ```
-git clone git@github.com:jaketrent/react-drift.git
+git clone git@github.com:ancutadaniel/react-drift/
 npm install
 ```
 

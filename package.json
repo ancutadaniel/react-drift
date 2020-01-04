@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaketrent/react-drift.git"
+    "url": "git+https://github.com/ancutadaniel/react-drift.git"
   },
   "keywords": [
     "react",
@@ -16,12 +16,12 @@
     "slider",
     "css"
   ],
-  "author": "jaketrent",
+  "author": "ancutadaniel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaketrent/react-drift/issues"
+    "url": "https://github.com/ancutadaniel/react-drift.git"
   },
-  "homepage": "https://github.com/jaketrent/react-drift#readme",
+  "homepage": "https://github.com/ancutadaniel/react-drift.git#readme",
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/preset-env": "7.2.3",
